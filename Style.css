@@ -1,0 +1,32 @@
+.y {
+    text-align: center;
+    margin-top: 25px;
+}
+.u {
+    margin-left: 50px;
+}
+.c {
+    margin-top: 50px;
+}
+.o {
+    margin-top: 18px;
+}
+.l {
+    background-color: #ccc;
+}
+.a {
+    margin-top: 8px;
+}
+.m {
+    text-align: center;
+}
+.z {
+    margin-top: 22px;
+}
+
+.margin{
+    background-color: bisque;
+    margin: 20px;
+    padding: 30px;
+}
+
